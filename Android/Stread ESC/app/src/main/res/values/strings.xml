@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Stread ESC</string>
+    <string name="_0">0</string>
+    <string name="m">m</string>
+    <string name="_0_00">0.00</string>
+    <string name="show">Show Graph</string>
+    <string name="etdata3">etData3</string>
+    <string name="etdata2">etData2</string>
+    <string name="etdata1">etData1</string>
+    <string name="add">Add</string>
+    <string name="online_mode">Online Mode</string>
+    <string name="emfarih">[M] 엠파리</string>
+    <string name="heading">Heading</string>
+    <string name="slength">SLength</string>
+    <string name="deg">deg</string>
+    <string name="start">START</string>
+    <string name="calibration">Calibration</string>
+    <string name="magneto">Magneto</string>
+    <string name="reset">Reset</string>
+    <string name="cm">cm</string>
+    <string name="Follower">Follower</string>
+    <string name="getInfo">Get Info</string>
+    <string name="robotHeading">Robot Heading : </string>
+    <string name="topic">Topic :</string>
+    <string name="pdr_leader_position">PDR/Leader/Position</string>
+    <string name="main">MAIN</string>
+    <string name="heading_sl">Heading,SL</string>
+    <string name="message">Message :</string>
+    <string name="publish_data">PUBLISH DATA</string>
+    <string name="publish">Publish</string>
+    <string-array name="graph_sensor_data">
+        <item>Accelerometer X</item>
+        <item>Accelerometer Y</item>
+        <item>Accelerometer Z</item>
+        <item>Gyroscope X</item>
+        <item>Gyroscope Y</item>
+        <item>Gyroscope Z</item>
+        <item>Magnetometer X</item>
+        <item>Magnetometer Y</item>
+        <item>Magnetometer Z</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="sensor_data">
+        <item>Acc Body Frame Data</item>
+        <item>Gyr Body Frame Data</item>
+        <item>Mag Body Frame Data</item>
+        <item>Orientation Data</item>
+    </string-array>
+</resources>
