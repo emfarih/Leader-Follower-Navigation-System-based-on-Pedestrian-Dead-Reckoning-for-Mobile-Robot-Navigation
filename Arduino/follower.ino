@@ -11,9 +11,9 @@
 #define M_PI 3.14159265358979323846264338327950288
 
 SoftwareSerial WifiSerial(8, 9); // RX, TX
-const char* ssid="PDR-Server";
-const char* pass="zukbkdskzytxghfl";
-const char* mqtt_server="192.168.43.1";
+const char* ssid="yourwifissid";
+const char* pass="yourwifipassword";
+const char* mqtt_server="yourmqttserver";
 int status = WL_IDLE_STATUS;     // the Wifi radio's status
 
 QMC5883L compass;
