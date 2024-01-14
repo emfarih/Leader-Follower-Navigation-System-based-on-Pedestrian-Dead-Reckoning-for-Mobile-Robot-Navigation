@@ -2,9 +2,9 @@
 #include <PubSubClient.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid="PDR-Server";
-const char* pass="zukbkdskzytxghfl";
-const char* mqtt_server="192.168.43.1";
+const char* ssid="yourwifissid";
+const char* pass="yourpassword";
+const char* mqtt_server="yourmqttserver";
 
 MPU9250 IMU(Wire,0x68);
 WiFiClient espClient;
